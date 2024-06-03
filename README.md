@@ -1,3 +1,24 @@
+<!-- heading -->
+# Compose Quote
+
+
+<!-- Blockquote -->
+<!-- Strong -->
+>  This Is A Simple _quote_ Application But With Advanced Library.
+
+#### Implementing Retrofit with Hilt.
+
+<!------------
+-->
+
+
+<!--ul-->
+* Hilt (dependency injection)
+* Viewmodel
+* Retrofit
+* Material Design
+* MVVM Architecture Component
+
 
 
 ### Some ScreenShorts
